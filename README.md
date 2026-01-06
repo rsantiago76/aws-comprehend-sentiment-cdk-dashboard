@@ -5,6 +5,8 @@ Includes a **React + TypeScript (Vite) dashboard** that calls the API.
 
 ## Architecture
 API Gateway (REST) -> Lambda (Python) -> Amazon Comprehend
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b472ec6-767f-4f01-8c96-a6cf2b54aa4d" />
+
 
 ## Repo layout
 - `infra/cdk/`  CDK app (TypeScript) that deploys API Gateway + Lambda + IAM
